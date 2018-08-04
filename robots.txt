@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /img/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/mandamondo/mandamondo.github.io/blob/master/util/sitemap.xml
